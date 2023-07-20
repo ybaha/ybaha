@@ -1,5 +1,7 @@
 ## hey 👋, I'm Baha
 
+Passionate Full Stack Developer with over a year of experience in frontend and full-stack development. Expertise in JavaScript, TypeScript, React, Node.js among others. Quick to adapt to new technologies and trends. Always seeking challenging opportunities to utilize my technical expertise and innovative problem-solving skills.
+
 ---
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)

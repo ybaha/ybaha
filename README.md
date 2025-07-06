@@ -1,6 +1,6 @@
 Passionate Full Stack Developer with over a year of experience in frontend and full-stack development. Expertise in JavaScript, TypeScript, React, Node.js among others. Quick to adapt to new technologies and trends. Always seeking challenging opportunities to utilize my technical expertise and innovative problem-solving skills.
 
-Currently working on [BotGuise.com](https://botguise.com?ref=ybaha-gh)
+Check out[ my website](https://baha.vercel.app/)
 
 ---
 
